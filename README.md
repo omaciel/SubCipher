@@ -1,6 +1,6 @@
 # SubCipher
 
-I have created this simple project as part of my personal learning journey through the land of Rust programming.
+I have created this simple project as part of my personal learning journey through the land of [Rust](https://www.rust-lang.org) and [Go](https://go.dev/) programming.
 
 Other than serving as a good excuse for me to try things out, this command line application serves the purpose of providing a fairly simple [substitution cipher](https://en.wikipedia.org/wiki/Substitution_cipher)--thus its name, SubCipher--that I used when I was a young kid.
 
@@ -10,9 +10,24 @@ There are way too many different types of substitution ciphers to name here, but
 
 Therefore, the words **Hello world** would be *encrypted* to **Honne wetnd**. I told you, it was a very simple cipher ;)
 
-## Run it
+## Run it with Rust
+
+  $ git checkout rust
 
   $ cargo run
+
+  Message to encrypt:
+
+  I don't know what to do
+  
+  Encrypted message: A del'r klew whir re de
+
+
+## Run it with Go
+
+  $ git checkout golang
+  
+  $ go run .
 
   Message to encrypt:
 
