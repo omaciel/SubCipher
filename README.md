@@ -1,6 +1,6 @@
 # SubCipher
 
-I have created this simple project as part of my personal learning journey through the land of Rust programming.
+I have created this simple project as part of my personal learning journey through the land of [Rust](https://www.rust-lang.org) programming.
 
 Other than serving as a good excuse for me to try things out, this command line application serves the purpose of providing a fairly simple [substitution cipher](https://en.wikipedia.org/wiki/Substitution_cipher)--thus its name, SubCipher--that I used when I was a young kid.
 
